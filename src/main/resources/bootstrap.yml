@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: avatar-api
+  cloud:
+    config:
+      uri: http://config-srv:8888
