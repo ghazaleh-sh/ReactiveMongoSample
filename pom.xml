@@ -36,7 +36,8 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-config-client</artifactId>
         </dependency>
-<!--        brings in the reactive MongoDB dependencies that Spring needs.-->
+<!--        brings in the reactive MongoDB dependencies that Spring needs.
+            is a Spring Boot starter for using MongoDB document-oriented database and Spring Data MongoDB Reactive.-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-mongodb-reactive</artifactId>
